@@ -11,3 +11,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [ ] Complete Markdown Course
+- [ ] Create a Repository
+- [ ] Create Project
+- [ ] Publish to github
